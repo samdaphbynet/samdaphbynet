@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Flask, C, JavaScript, React, Html, Css, Mysql**
 
-- 👨‍💻 All of my projects are available at [I'm currently working on my portfolio](I'm currently working on my portfolio)
+- 👨‍💻 All of my projects are available at Github
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/samirzidani/](https://www.linkedin.com/in/samirzidani/)
 
