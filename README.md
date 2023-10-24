@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/samirzidani/](https://www.linkedin.com/in/samirzidani/)
 
-- 💬 Ask me about **Flask, React, Html, Css and Mysql**
+- 💬 Ask me about **Flask, React, Html, Css, JavaScript, NodeJs and Mysql**
 
 - 📫 How to reach me **samirzidani12@gmail.com**
 
