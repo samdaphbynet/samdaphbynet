@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/samirzidani12" target="blank"><img src="https://img.shields.io/twitter/follow/samirzidani12?logo=twitter&style=for-the-badge" alt="samirzidani12" /></a> </p>
 
-- 🔭 I’m currently working on **Portforlio**
+- 🔭 https://www.samdaph.com
 
 - 🌱 I’m currently learning **Python, Flask, C, JavaScript, React, Html, Css, Mysql**
 
