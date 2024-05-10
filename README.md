@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <p align="center">
-  <img src="https://samdaph.com/images/myportfolio.png" height="400"/>
+  <img src="https://samdaph.com/portfolio/myportfolio.png" height="400"/>
 </p>
 <br/>
 <p align="center">
